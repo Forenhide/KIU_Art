@@ -112,7 +112,6 @@ footer {
 .slide-titles {
   display: flex;
   position: absolute;
-  top: -23rem;
   left: 0;
   width: 100%; /* Make the width 100% to avoid horizontal scroll */
   height: 100vh;
